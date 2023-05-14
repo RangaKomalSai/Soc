@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.welcome{
+    font-size: 120px;
+    font-family: 'Foldit', cursive;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.889);
+}
+body{
+    background-image: url('connect.jpg');
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-position: fixed;
+}
+.button{
+    color: black;
+    padding: 5px;
+    width: 100%;
+    /* background-color: red; */
+}
+.seperation{
+    width:2px;
+    background-color: grey;
+}
+.text{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 2px;
+    margin-left: 10vw;
+}
+.button1{
+    margin-right: 16vw;
+}
+.button2{
+    margin-right: 14vw;
+}
+.text-align-center{
+    text-align: center;
+}
+.display-inline{
+    display: inline;   
+}
+.display-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #c5c9c9;
+}
+.heading{
+    font-size: x-large;
+    padding: 2vh;
+    margin: 4vh;
+}
